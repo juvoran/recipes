@@ -1,0 +1,9 @@
+Ingredients:
+ - 1 Egg
+
+ Directions:
+   1. Fall down an egg into a cup.
+   2. Add some water.
+   3. Poke using fork.
+   4. Cook in microwave oven for 1 min.
+
